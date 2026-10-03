@@ -1,0 +1,20 @@
+Use case: ads-marketing
+Asset type: restaurant menu illustrative serving photography contact sheet.
+Primary request: Create ONE clean contact sheet made of exactly twelve separate professional food photographs arranged as a precise 4-column by 3-row grid. No text, no labels, no borders, no gutters. Every rectangular tile has its own complete centered dish, fitting fully inside its tile with comfortable margins. Each image is photographically realistic and appetizing, with natural food textures, never an illustration.
+Scene/backdrop: the same dark emerald table, elegant white porcelain plates and restrained gold accents in every tile.
+Lighting/mood: warm soft studio lighting, luxury banquet food styling, crisp detailed food, gently blurred tabletop background, slight overhead three-quarter camera angle.
+Subjects in exact left-to-right top-to-bottom order:
+Row 1 column 1: cold meat platter with neatly fanned slices of roast beef and traditional Kazakh horse sausage, fresh herbs.
+Row 1 column 2: cold chicken platter with elegant slices of cooked chicken, lettuce and delicate garnish.
+Row 1 column 3: cold fish platter with smoked salmon, white fish, lemon wedges and herbs.
+Row 1 column 4: golden triangular chicken samsa pastries on white porcelain.
+Row 2 column 1: elegant zucchini and eggplant appetizer rolls with creamy filling and herbs.
+Row 2 column 2: lavish fresh fruit platter with sliced melon, pineapple, citrus, strawberries and grapes.
+Row 2 column 3: tea sweets and assorted delicate cookies on a white porcelain plate.
+Row 2 column 4: oriental sweets, diamond baklava and Turkish delight.
+Row 3 column 1: assorted golden pastries and small baked buns.
+Row 3 column 2: bread basket with sliced white bread, dark bread and golden rolls.
+Row 3 column 3: tea served in a white porcelain teapot with restrained gold trim and matching teacups, visible amber tea.
+Row 3 column 4: authentic Kazakh beshbarmak with wide flat noodles, tender boiled meat and translucent onions on a generous white serving platter.
+Composition/framing: exactly four equal width columns and three equal height rows, a landscape sheet with 4:3 overall aspect ratio so all twelve tiles are square. Each tile should be usable as an independent menu card photo when cropped. Food, plates and props must never cross tile boundaries.
+Constraints: no text, no typography, no lettering, no logos, no watermark, no decorative borders, no collage overlaps. These images are generated illustrative serving examples, not actual photographs from any named restaurant.
